@@ -1,0 +1,147 @@
+#+TITLE: Kassoum AYOUBA
+#+AUTHOR: kassoum.ayouba@inrae.fr
+
+
+:HTML:
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org _personal.css"/>
+#+HTML_HEAD: <base target="_blank">
+#+ATTR_HTML: :rules none
+:END:
+
+
+#+ATTR_HTML: :width 150px :style float:right;margin:0px 0px 20px 20px;
+[[file: about.png]]
+
+Welcome here!
+
+I am an [[https://www.inrae.fr/en][INRAE]] researcher at [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR CESAER]].
+
+On this page, you can find more about my background, my research interests, my publications and my previous teaching experience. 
+\\
+\\
+
+* Contact Information
+
+#+ATTR_HTML: :border 0 :rules none :frame none
+| *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR CESAER]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]]  |
+| *Email:*     | [[mailto:kassoum.ayouba@inrae.fr][kassoum.ayouba-at-inrae-dot-fr]]                          |
+| *Web pages:* |[[https://scholar.google.com/citations?user=6kPeoi8AAAAJ&hl=en][ Google Scholar]] / [[https://github.com/ayoubakassoum][Github ]]/ [[https://www.researchgate.net/profile/Kassoum_Ayouba][ResearchGate]]                  |          
+
+
+* Professional experience
+
+#+ATTR_HTML: :border 0 :rules none :frame none
+| 2025 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR CESAER]], Dijon                         |
+| 2019 to 2024 | *Researcher* at INRAE, [[https://umr-territoires.fr/][UMR Territoires]], Clermont-Ferrand         |
+| 2016 to 2019 | *Post-doctoral researcher* at INRA & AgroSup, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR CESAER]], Dijon  |
+
+* Education
+
+#+ATTR_HTML: :border 0 :rules none :frame none
+| 2015 | *PhD in Economics* at [[https://www.univ-lille.fr/en/][Université de Lille]], France                       |
+| 2009 | *MSc (year 2) in applied Econometrics* at [[https://www.univ-lille.fr/en/][Université de Lille]], France   |
+| 2008 | *MSc (year 1) in Econometrics* at [[https://um.rnu.tn/fr/][Université de Monastir]], Tunisia       |
+
+
+* Research interests
+
+- Agricultural and Production Economics :: Performance, productivity and durability of agricultural activities, Analysis of pesticide use, Effect of Geographical Indication labels on agricultural activities
+
+- Spatial Economics :: Territorial disparities, Social interactions and learning
+
+- Applied Econometrics :: Spatial Econometrics, Exploratory space-time data analysis, Causal inference
+
+
+* Published Papers
+
+- *Does agricultural cooperative membership improve farm productive performance? A meta-regression analysis* (with C. Duvivier and C. Bussière). /Agricultural Economics/, 2025, 56(1):45–72. [ [[file:bib/dacm.bib][bib]] ; [[https://onlinelibrary.wiley.com/doi/10.1111/agec.12862][published ]]]
+
+
+- *The Spatio-temporal dynamics of pesticide use: A global exploratory analysis* (with A. Vallone). /Journal of Environmental Planning and Management/, 2025, 68(4):866-886. [ [[file:bib/tsdp.bib][bib]] ; [[https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2274284][published]] ; [[https://www.tandfonline.com/doi/suppl/10.1080/09640568.2023.2274284?scroll=top][appendix]] ; [[https://github.com/ayoubakassoum/pesticides_trends][code]] ]
+
+
+- *Disparités spatiales de collecte des déchets ménagers en France: une analyse à l’échelle des départements* (with A. Ndimblane and O. Aznar). /Revue d’Economie Régionale & Urbaine/, 2024, 5:693-716. [ [[file:bib/dscd.bib][bib]] ; [[https://shs.cairn.info/revue-d-economie-regionale-et-urbaine-2024-5-page-693][published]] ]
+
+
+- *Identifying and assessing intensive and extensive technologies in European dairy farming* (with L. Latruffe, A. Niedermayr, Y. Desjeux, K.-H. Dakpo, L. Schaller, J.Kantelhardt, Y. Jin, K. Kilcline, M. Ryan, C. O’Donoghue). /European Review of Agricultural Economics/, 2023, 50(4):1482–1519. [ [[file:bib/iaie.bib][bib]] ;  [[https://academic.oup.com/erae/article/50/4/1482/7219679?login=true][published]] ]
+
+
+- *Spatial dependence in production frontier models*, /Journal of Productivity Analysis/, 2023, 60:21-36. [ [[file:bib/sdpf.bib][bib]] ;  [[https://link.springer.com/article/10.1007/s11123-023-00670-7][published]] ]
+
+
+- *Assessing French Departments spending efficiency over time* (with J. Le Gallo and M.-L. Duboz). /Applied Economics/, 2023, 55(59):6939-6964. [ [[file:bib/afds.bib][bib]] ;  [[https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2167925?journalCode=raec20][published]] ; [[https://github.com/ayoubakassoum/local_gvt][code]] ]
+
+
+- *An indirect, Luenberger approach to price performance* (with J.-P. Boussemart, H.-B. Lefer, H. Leleu, and R. Parvulescu). /International Journal of Production Economics/, 2022, 244:108352. [ [[file:bib/aila.bib][bib]] ; [[https://www.sciencedirect.com/science/article/pii/S0925527321003285][published]] ]
+
+
+- *The spatial dimension of the French private rental markets. Evidence from microgeographic data in 2015* (with M.-L. Breuillé, C. Grivault and J. Le Gallo). /Environment and Planning B: Urban Analytics and City Science/, 2021, 48(8):2497-2513. [ [[file:bib/tsdf.bib][bib]] ; [[https://journals.sagepub.com/doi/10.1177/2399808320977877][published]] ]
+
+
+- *Can we Really Use Prices to Control Pesticide Use? Results from a nonparametric model* (with S. Vigeant). /Environmental Modeling & Assessment/, 2020, 25:885-900. [ [[file:bib/cwru.bib][bib]] ; [[https://link.springer.com/article/10.1007/s10666-020-09714-w][published]] ]
+
+
+- *Beyond GDP: an analysis of the socioeconomic diversity of European regions* (with J. Le Gallo and A. Vallone). /Applied Economics/, 2020, 52(9):1010-1029. [ [[file:bib/bgdp.bib][bib]] ; [[https://www.tandfonline.com/doi/full/10.1080/00036846.2019.1646885][published]] ; [[https://www.tandfonline.com/doi/suppl/10.1080/00036846.2019.1646885?scroll=top][appendix]] ]
+
+
+- *Does Airbnb disrupt the private rental market? An empirical analysis for French cities* (with M.-L. Breuillé, C. Grivault and J. Le Gallo). /International Regional Science Review/, 2020, 43:76-104. [ [[file:bib/dadt.bib][bib]] ; [[https://journals.sagepub.com/doi/abs/10.1177/0160017618821428][published]] ]
+
+
+- *Hétérogénéité spatiale des prix hédoniques des appartements du marché locatif privé en France* (with M.-L. Breuillé, C. Grivault, J. Le Gallo and I. Nappi-Choulet). /Revue Française d'Economie/, 2019, 34:203-247. [ [[file:bib/hsdp.bib][bib]] ; [[https://shs.cairn.info/revue-francaise-d-economie-2019-2-page-203?lang=fr][published]] ]
+
+
+- *A measure of price advantage and its decomposition into output and input-specific effects* (with J.-P. Boussemart, H.-B. Lefer, H. Leleu, and R. Parvulescu). /European Journal of Operational Research/, 2019, 276:688-698. [ [[https://www.sciencedirect.com/science/article/pii/S0377221719300773?via%3Dihub][published]] ]
+
+
+- *Nonlinear impact estimation in spatial autoregressive models* (with J.-S. Ay and J. Le Gallo). /Economics Letters/, 2018, 163:59-64. [ [[file:bib/amop.bib][bib]] ; [[https://www.sciencedirect.com/science/article/pii/S0165176517304846][published]] ; [[https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304846-mmc1.pdf][appendix]] ; [[https://github.com/ayoubakassoum/nlimpactR][code]] ]
+
+
+- *The impact of single farm payments on technical inefficiency of French crop farms* (with J.-P. Boussemart and S. Vigeant). /Review of Agricultural, Food and Environmental Studies/, 2017, 98:1-23. [ [[file:bib/tios.bib][bib]] ; [[https://link.springer.com/article/10.1007/s41130-017-0049-2][published]] ]
+
+
+- *On the estimation of damage reduction functions*, /Economics Bulletin/, 2016, 36:2394-2404. [ [[file:bib/oteo.bib][bib]] ; [[https://www.accessecon.com/Pubs/EB/2016/Volume36/EB-16-V36-I4-P231.pdf][published]] ]
+
+
+
+* Working papers
+
+- *Assessing Carbon Dioxide Emission Reduction Potential Using a Cost Approach* (with J.-P. Boussemart and R. Parvulescu), revise and resubmit, may 2025.
+
+- *Regional impacts of ecological agriculture. Stakeholder insights from three case studies in France* (with L. Billaudet et al.), may 2025.
+
+- *Technical inefficiency and technology choice of Protected Designation of Origin and standard dairy farming in France* (with H. Dakpo and P. Jeanneaux), april 2025
+
+- *The estimation of pesticides marginal products: a Bayesian multi-output stochastic frontier with effective inputs* (with S. Vigeant), april 2019
+
+
+
+* Other documents
+
+- *Farm technical-economic performance depending on the degree of ecological approaches* (with A. Niedermayr, J. Kantelhardt, L. Eckartcet al.). /Deliverable D3.1 of the Low-Input Farming and Territories project/, june, 2021, 247 pages. [ [[https://www.lift-h2020.eu/download/2313/][pdf]] ]
+
+- *Socio-economic impact of ecological agriculture at the territorial level* (with A. Bailey, S. Davidova, S. Henderson et al.). Deliverable D4.2 of the Low-Input Farming and Territories project, june, 2021, 71 pages. [ [[https://www.lift-h2020.eu/download/2325/][pdf]] ].
+
+- *Spatiotemporal ESDA on GDP, Income and Educational Attainment in European regions (report D.2.5)* (with  J. Le Gallo). IMAJINE WP2 Analysis of Territorial Inequalities in Europe, november 2019, 63 pages. [ [[https://hal.inrae.fr/hal-02789469/document][pdf]] ].
+
+- *Analyse des déterminants des niveaux de loyers dans le grandes zones urbaines françaises* (with M.-L. Breuillé, M. Garcia, C. Grivault and J. Le Gallo). Final deliverable of a project ﬁnanced by the French housing ministry, November 2017, 158 pages.
+
+- *De la caractérisation microéconomique des pesticides à l’estimation de leur productivité marginale*, PhD Thesis, Université Lille 1, 2015, 349 pages. [ [[https://pepite-depot.univ-lille.fr/LIBRE/EDSESAM/2015/50374-2015-Kassoum.pdf][pdf]] ]
+
+
+* Research projects
+
+- [[https://ecophytopic.fr/recherche-innovation/prevenir/projet-dirodur][DiRoDur]] (Ecophyto II+ R&I). Coordinator: N. Munier-Jolain (UMR Agroécologie), 2025-2027
+- [[https://www.lift-h2020.eu/][LIFT]] (H2020). Coordinator: L. Latruffe (UMR BSE), 2018-2022
+- Determinants of the formation of rents (Ministère du Logement, de l’Egalité des Territoires et de la Ruralité). Coordinators: M.-L. Breuillé (CESAER), J. Le Gallo (CESAER)  and I. Nappi-Choulet (ESSEC), 2016-2017
+- [[https://imajine-project.eu/][IMAJINE]] (H2020). Coordinator (task): J. Le Gallo (UMR CESAER), 2017-2021
+
+
+
+* Teaching
+
+- 2014-2015 ([[https://www.ieseg.fr/][IESEG School of Management]]) :: Macroeconomics (Bachelor degree, year 1), Tools for Microeconomics Analysis (Bachelor degree, year 1), International Economics and Exchanges (Bachelor degree, year 1), Contemporary International Economics (Bachelor degree, year 2).
+
+- 2012-2014 ([[https://droit.univ-lille.fr/][Université Lille 2]]) :: Labour economics (Master, year 1), Markets Theory and competition (Bachelor degree, year 3), Imperfect competition and firm strategies (Bachelor degree, year 3), Introduction to Microeconomics (Bachelor degree, year 1), Introduction to Macroeconomics (Bachelor degree, year 1).
+
+- 2009-2012 ([[https://fasest.univ-lille.fr/][Université Lille 1]]) :: Consumer theory (Bachelor degree, year 1), Money and ﬁnance (Bachelor degree, year 1), Financial mathematics (Bachelor degree, year 1). Université Lille 1.
+
