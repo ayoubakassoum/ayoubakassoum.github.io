@@ -40,7 +40,7 @@
              :time-stamp-file t)        ;; Include time stamp in file
        
        (list "website:static"
-             :base-directory "./content/"
+             :base-directory "./content"
              :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
              :publishing-directory "./public"
              :recursive t
