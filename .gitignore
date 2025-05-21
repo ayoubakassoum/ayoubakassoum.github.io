@@ -1,2 +1,10 @@
+; Don't commit downloaded Emacs packages
 .packages/
+
+; Ignore the org-publish cache
+.org-cache/
+
+; Ignore public folder
 public/
+
+
