@@ -54,6 +54,9 @@ On this page, you can find more about my background, my research interests, my p
 
 * Published Papers
 
+- *Assessing the eco-efficiency of inter-municipal waste management services in France* (with A. Ndimblane and O. Aznar). /Journal of Environmental Management/, 2025, 393:126941. [ [[file:bib/atee.bib][bib]] ; [[https://doi.org/10.1016/j.jenvman.2025.126941][published]] ]
+    
+  
 - *Does agricultural cooperative membership improve farm productive performance? A meta-regression analysis* (with C. Duvivier and C. Bussière). /Agricultural Economics/, 2025, 56(1):45–72. [ [[file:bib/dacm.bib][bib]] ; [[https://onlinelibrary.wiley.com/doi/10.1111/agec.12862][published ]]]
 
 
