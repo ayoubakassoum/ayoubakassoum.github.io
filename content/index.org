@@ -54,6 +54,9 @@ On this page, you can find more about my background, my research interests, my p
 
 * Published Papers
 
+- *Assessing Carbon Dioxide Emission Reduction Potential Using a Cost Approach* (with J.-P. Boussemart and R. Parvulescu). /European Journal of Operational Research/, 2025. [ [[https://doi.org/10.1016/j.ejor.2025.10.018][published]] ]
+
+  
 - *Assessing the eco-efficiency of inter-municipal waste management services in France* (with A. Ndimblane and O. Aznar). /Journal of Environmental Management/, 2025, 393:126941. [ [[file:bib/atee.bib][bib]] ; [[https://doi.org/10.1016/j.jenvman.2025.126941][published]] ]
     
   
@@ -107,8 +110,6 @@ On this page, you can find more about my background, my research interests, my p
 
 
 * Working papers
-
-- *Assessing Carbon Dioxide Emission Reduction Potential Using a Cost Approach* (with J.-P. Boussemart and R. Parvulescu), revise and resubmit, may 2025.
 
 - *Regional impacts of ecological agriculture. Stakeholder insights from three case studies in France* (with L. Billaudet et al.), may 2025.
 
