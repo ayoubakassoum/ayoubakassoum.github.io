@@ -54,7 +54,7 @@ On this page, you can find more about my background, my research interests, my p
 
 * Published Papers
 
-- *Assessing the Impact of Separate Biowaste Collection on Residual Household Waste. an Analysis at the French Intermunicipal Level* (with A. Ndimblane and O. Aznar). /Environmental and Resource Economics/, 2026. [ [[file:bib/aibs.bib][bib]] ; [[https://doi.org/10.1007/s10640-026-01087-0][published]] ]
+- *Assessing the Impact of Separate Biowaste Collection on Residual Household Waste. An Analysis at the French Intermunicipal Level* (with A. Ndimblane and O. Aznar). /Environmental and Resource Economics/, 2026. [ [[file:bib/aibs.bib][bib]] ; [[https://doi.org/10.1007/s10640-026-01087-0][published]] ]
 
 - *Assessing Carbon Dioxide Emission Reduction Potential Using a Cost Approach* (with J.-P. Boussemart and R. Parvulescu). /European Journal of Operational Research/, 2025. [ [[file:bib/acde.bib][bib]] ; [[https://doi.org/10.1016/j.ejor.2025.10.018][published]] ]
 
